@@ -1,23 +1,13 @@
-##
+### PT
 
-PT
- ##Olá, meu nome é Felipe! 👋
- ##É um prazer te ter aqui. 😊
-EN
- ##Hello, my name is Felipe.👋
- ##It's a pleasure to have you here. 😊
+## Olá, meu nome é Felipe! 👋
 
+## É um prazer te ter aqui. 😊
 <!--
-**LimaFelip/LimaFelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### EN
 
-Here are some ideas to get you started:
+ ## Hello, my name is Felipe.👋
+ ## It's a pleasure to have you here. 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--!>
+
