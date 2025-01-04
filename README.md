@@ -1,4 +1,11 @@
-## Hello, my name is Felipe.👋
+##
+
+PT
+ ##Olá, meu nome é Felipe! 👋
+ ##É um prazer te ter aqui. 😊
+EN
+ ##Hello, my name is Felipe.👋
+ ##It's a pleasure to have you here. 😊
 
 <!--
 **LimaFelip/LimaFelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
