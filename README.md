@@ -1,7 +1,4 @@
-### PT
-
 ## Olá, meu nome é Felipe! 👋
-
 ## É um prazer te ter aqui. 😊
 <!--
 ### EN
