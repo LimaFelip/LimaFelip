@@ -18,9 +18,8 @@ It's a pleasure to have you here.
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="center" alt="LimaFelip-Linux" height="70" width="70"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="LimaFelip-docker" height="70" width="70"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="LimaFelip-github" height="70" width="70
+/*<img align="center" alt="LimaFelip-docker" height="70" width="70"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />*/
          
 </div>  
 
