@@ -25,4 +25,7 @@ It's a pleasure to have you here.
 <div style="display: inline_block"><br>
   <br>
   <br>
- 
+
+  https://shields.io/badges
+  
+ https://www.jsdelivr.com/
