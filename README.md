@@ -21,8 +21,7 @@ It's a pleasure to have you here.
 <img align="center" alt="LimaFelip-docker" height="70" width="70"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="LimaFelip-github" height="70" width="70
-
-          
+         
 </div>  
 
 <div style="display: inline_block"><br>
