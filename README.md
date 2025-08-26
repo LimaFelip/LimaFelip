@@ -20,10 +20,7 @@ It's a pleasure to have you here.
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="LimaFelip-docker" height="70" width="70"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="LimaFelip-github" height="70" width="70"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center" alt="LimaFelip-gitlab" height="70" width="70"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img align="center" alt="LimaFelip-github" height="70" width="70
 
           
 </div>  
