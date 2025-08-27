@@ -1,9 +1,5 @@
-
-## Olá, Seja bem-vindo! 
-     meu nome é Felipe!
-## Hello, welcome!
-     my name is Felipe! 
-
+<h1>Felipe Lima</h1>
+Sou estudante de Engenharia de Software, atualmente no quarto semestre, e estou em busca de uma oportunidade de estágio. Tenho foco em desenvolvimento Backend, com conhecimentos em banco de dados e também em Frontend.
 
 <div align="center">
   <a href="https://github.com/LimaFelip">
