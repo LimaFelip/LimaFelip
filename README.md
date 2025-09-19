@@ -2,10 +2,6 @@
 Sou estudante de Engenharia de Software, atualmente no quarto semestre, e estou em busca de uma oportunidade de estágio. Tenho foco em desenvolvimento Backend, com conhecimentos em banco de dados e também em Frontend.
 <div align="center">
   <a href="https://github.com/LimaFelip">
-<img align="" height="150em" src="https://github-readme-stats.vercel.app/api?username=LimaFelip=anuraghazra&show_icons=true&theme=transparent"/>
-</div>
-<div align="center">
-  <a href="https://github.com/LimaFelip">
     
   <img align="" height="150em" src="https://github-readme-stats.vercel.app/api?username=LimaFelip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
